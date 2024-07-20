@@ -1,0 +1,29 @@
+{
+  "name": "xloop-ts-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waapsdeveloper/xloop-ts-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waapsdeveloper/xloop-ts-101/issues"
+  },
+  "homepage": "https://github.com/waapsdeveloper/xloop-ts-101#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
